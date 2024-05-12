@@ -1,3 +1,4 @@
-# Hi there ![](https://github.com/server2200/server2200/blob/main/fading.gif)
+# Hi there ![image](https://github.com/server2200/server2200/blob/main/fading.gif)
 
-**I make Python Packages and shellOSes/ConsoleOSes :D**
+* cmdOS - a large project, currently v2.1.4 and upgrading :D
+![image](https://github.com/server2200/server2200/assets/141962124/b2939834-9d3d-41ef-ba99-da8323855cbd)
